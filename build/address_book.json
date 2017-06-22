@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "firstName": "ывапва",
+            "gender": "М",
+            "lastName": "вапвап",
+            "patronymic": "вапвап",
+            "phone": "34543534"
+        },
+        {
+            "firstName": "впва",
+            "gender": "Ж",
+            "lastName": "пв",
+            "patronymic": "орпо",
+            "phone": "435345545"
+        },
+        {
+            "firstName": "раврва",
+            "gender": "Ж",
+            "lastName": "пвап",
+            "patronymic": "впвап",
+            "phone": "65435"
+        },
+        {
+            "firstName": "ппарапр",
+            "gender": "Ж",
+            "lastName": "рпрап",
+            "patronymic": "апрап",
+            "phone": "435435"
+        },
+        {
+            "firstName": "пвап",
+            "gender": "Ж",
+            "lastName": "вапр",
+            "patronymic": "впвп",
+            "phone": "345345"
+        },
+        {
+            "firstName": "вапвап",
+            "gender": "М",
+            "lastName": "вапвапвап",
+            "patronymic": "вапвап",
+            "phone": "5465"
+        },
+        {
+            "firstName": "авпва",
+            "gender": "Ж",
+            "lastName": "авпвап",
+            "patronymic": "пвап",
+            "phone": "43254"
+        },
+        {
+            "firstName": "рперкере",
+            "gender": "Ж",
+            "lastName": "укукненрвавапар",
+            "patronymic": "врварва",
+            "phone": "5453"
+        },
+        {
+            "firstName": "уцкуцк",
+            "gender": "М",
+            "lastName": "кцук",
+            "patronymic": "цукуцк",
+            "phone": "5345345"
+        },
+        {
+            "firstName": "rere",
+            "gender": "Ж",
+            "lastName": "erter",
+            "patronymic": "ertet",
+            "phone": "4234"
+        },
+        {
+            "firstName": "rtert",
+            "gender": "М",
+            "lastName": "ertr",
+            "patronymic": "erter",
+            "phone": "5345"
+        },
+        {
+            "firstName": "jhgj",
+            "gender": "Ж",
+            "lastName": "gfhfgh",
+            "patronymic": "hfghfg",
+            "phone": "6456"
+        },
+        {
+            "firstName": "rtyrty",
+            "gender": "Ж",
+            "lastName": "ryrty",
+            "patronymic": "jjkjkdfsd",
+            "phone": "7657"
+        },
+        {
+            "firstName": "try",
+            "gender": "М",
+            "lastName": "yrty",
+            "patronymic": "rty",
+            "phone": "654"
+        }
+    ]
+}
